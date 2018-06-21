@@ -4,7 +4,6 @@ import axios from 'axios';
 import { Container } from 'semantic-ui-react';
 import WhichAnimeMenu from '../Menu';
 
-//NO OF UNIQUE USERS!!!!
 const containerSize = {
     'width': '600px',
     'fontSize': '16px',
@@ -12,8 +11,6 @@ const containerSize = {
     'backgroundColor' : 'rgba(0, 0, 0, 0.8)',
     'color' : 'white'
 };
-//to do: change to general statistics, convert main piece in classless component 
-//stackable column, one each for genre, keyword, ghibli?
 
 class Statistics extends Component {
     constructor(props){
@@ -45,7 +42,7 @@ class Statistics extends Component {
             });
         }));
     }
-//how to view statistics
+
     render(){
         const { genreData, keywordData } = this.state; 
 
