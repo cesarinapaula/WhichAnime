@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url('./images/Laid-Back-Camp-Episode-1-Screen001.png');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed
+}
+
+.centered {
+  margin: 0 auto;
+}
+
+.whichAnime {
+  font-family: 'Days One', sans-serif;
+}
+
+a:visited {
+  color: lightskyblue
+}
+
+a:hover {
+  color: lightpink
+}
+
+span {
+  font-family: 'Days One', sans-serif;
+}
+
