@@ -54,6 +54,7 @@ class Statistics extends Component {
             <WhichAnimeMenu/>
             <Container style={containerSize}>
             <h1 style={{textAlign: 'center'}}>What Do <span>WhichAnime</span> Users Search For</h1>
+            <h2 style={{textAligh: 'center'}}>Click on the genre to get the number of searches made</h2>
             <h2 style={{textAlign: 'center'}}>Statistics For Genres</h2>
 
             <div style={{width: "500px", textAlign: 'center', margin: '0 auto'}}>
