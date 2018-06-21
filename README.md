@@ -10,3 +10,5 @@ Future updates will include:
 2) Extended kids-friendly section.
 3) Additional filter options for more specific search queries.
 4) Resources page that will include news and blog links, where to watch, and conventions/events.
+5) Rotating background image.
+6) Anime of the Day section.
